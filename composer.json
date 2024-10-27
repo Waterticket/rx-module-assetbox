@@ -4,6 +4,7 @@
     "prepend-autoloader": false
   },
   "require": {
-    "rhymix/composer-stub": "dev-master"
+    "rhymix/composer-stub": "dev-master",
+    "czproject/git-php": "^4.3"
   }
 }

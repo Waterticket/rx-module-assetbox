@@ -2,6 +2,8 @@
 
 namespace Rhymix\Modules\Assetbox\Controllers;
 
+require 'modules/assetbox/vendor/autoload.php';
+
 /**
  * 에셋 박스
  * 
